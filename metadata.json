@@ -1,0 +1,6 @@
+{
+  "name": "Proving Trigonometric Identities",
+  "description": "Interactive study and teaching tool for Grade 12 Cambridge A Level Mathematics (Pure 3, Section 3.4 Further Trigonometric Identities).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
